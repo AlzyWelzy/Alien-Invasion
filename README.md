@@ -12,8 +12,13 @@ pip install pygame
 
 Once you have Python 3 and Pygame installed, you can run the game by running the following command:
 
+<!--
 ```bash
 python alien_invasion.py
+```
+<!--  -->
+```bash
+python main.py
 ```
 
 ## Controls
