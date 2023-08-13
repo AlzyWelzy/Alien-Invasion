@@ -40,8 +40,6 @@ The game features multiple levels of increasing difficulty, with more aliens and
 
 ## License
 
-License
-
 This code is licensed under the GNU Affero General Public License (AGPL), which is a free, copyleft license for software. This license ensures that anyone who uses, modifies, or distributes the software must also make their changes available under the same license.
 
 For more information about the AGPL, please refer to the LICENSE file included with this code.
